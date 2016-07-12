@@ -1,6 +1,6 @@
 {
   "name": "mobx-translate",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Simple translations library for mobx",
   "main": "lib/mobx-translate.js",
   "typings": "lib/mobx-translate.d.ts",
