@@ -1,5 +1,11 @@
 # MobX Translate
 
+## Installation:
+
+`npm install mobx-translate --save`
+
+## Usage
+
 First, create interface for your translations:
 
 ```js
