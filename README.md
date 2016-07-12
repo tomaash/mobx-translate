@@ -43,7 +43,7 @@ export const DE:TranslationKeys = {
 }
 ```
 
-Initialize MobxTranslate:
+Initialize MobxTranslate, pass your translations interface as a generic:
 
 ```js
 import {TranslationKeys} from './strings/translation-keys';
@@ -61,7 +61,7 @@ translateInstance.setLanguage('EN');
 export const trans = translateInstance;
 ```
 
-And then easily switch languages and translate strings in React components:
+And then easily switch languages and translate strings in React components. Again, with code completion for translation keys!:
 
 ```js
 import * as React from 'react';
