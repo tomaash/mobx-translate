@@ -88,3 +88,5 @@ export class Foo extends React.Component<{}, {}> {
   }
 }
 ```
+
+## PS: It works without TypeScript just as well, you just don't get the code completion goodness
